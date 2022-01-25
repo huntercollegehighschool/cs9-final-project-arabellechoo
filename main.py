@@ -14,10 +14,10 @@ def theman(trials): #makes the man
 
                   _________
                   |/      |
-                  |      (_)
+                  |     (-_-)
                   |      \|/
                   |       |
-                  |      / \
+                  |      / \\
                   |
                 __|____
 
@@ -71,7 +71,7 @@ def theman(trials): #makes the man
                    _________
                   |/      |
                   |      (_)
-                  |      \|
+                  |      \|/
                   |      
                   |     
                   |
